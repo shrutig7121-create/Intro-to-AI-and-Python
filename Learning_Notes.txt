@@ -1,0 +1,80 @@
+# INTRODUCTION TO AI AND PYTHON
+Module 01: Learning Notes
+
+1. ARTIFICIAL INTELLIGENCE (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence, such as problem-solving, understanding language, and recognizing images.
+
+Examples:
+- Chatbots
+- Voice assistants
+- Self-driving vehicles
+
+2. MACHINE LEARNING (ML)
+
+Machine Learning is a subset of AI that allows computers to learn patterns from data and make predictions without being explicitly programmed for every situation.
+
+Examples:
+- Email spam detection
+- Product recommendations
+- Fraud detection
+
+3. DEEP LEARNING
+
+Deep Learning is a subset of Machine Learning that uses multi-layered neural networks to learn complex patterns from large amounts of data.
+
+Examples:
+- Image recognition
+- Speech recognition
+- Generative AI
+
+4. DIFFERENCE BETWEEN AI, ML, AND DEEP LEARNING
+
+- AI is the broader field of making machines perform intelligent tasks.
+- ML is a part of AI that learns from data.
+- Deep Learning is a part of ML that uses multi-layered neural networks.
+
+Relationship: AI contains ML, and ML contains Deep Learning.
+
+5. REAL-WORLD APPLICATIONS OF AI
+
+- Healthcare: Medical image analysis.
+- Banking: Detecting suspicious transactions.
+- Education: Personalized learning systems.
+- E-commerce: Product recommendations.
+- Transportation: Driver-assistance systems.
+
+6. PYTHON BASICS
+
+Variables:
+Variables store values.
+Example: name = "Shruti"
+
+Lists:
+Lists store multiple values.
+Example: marks = [80, 75, 90, 85]
+
+Loops:
+Loops repeat a block of code.
+Example:
+for number in [1, 2, 3]:
+    print(number)
+
+Functions:
+Functions are reusable blocks of code.
+Example:
+def square(number):
+    return number * number
+
+print(square(5))
+
+7. PRACTICE PROGRAMS
+
+- variables.py: Demonstrates variables and print statements.
+- loops.py: Demonstrates lists and loops.
+- functions.py: Demonstrates a function to calculate average marks.
+- even_odd.py: Demonstrates functions and conditional statements.
+
+8. CONCLUSION
+
+This module introduced the basic concepts of AI, Machine Learning, and Deep Learning, their real-world applications, and fundamental Python programming concepts.
